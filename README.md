@@ -24,8 +24,8 @@ $ yarn start:prod
 
 ## Available endpoints
 
-# Report (grouped information) for each match and a player ranking.
+### Report (grouped information) for each match and a player ranking.
 http://localhost:3000/report/kills
 
-# Report of deaths grouped by death cause for each match.
+### Report of deaths grouped by death cause for each match.
 http://localhost:3000/report/deaths
